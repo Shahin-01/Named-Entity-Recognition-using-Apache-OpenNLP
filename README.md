@@ -1,4 +1,4 @@
-In this project, we have extracted person, location, and organization names from large document using Java language and [Apache OpenNLOP](https://opennlp.apache.org/) toolkit. Following dependency files should be used:  
+In this project, we have extracted person, location, and organization names from large document using Java language and [Apache Open NLOP](https://opennlp.apache.org/) toolkit. Following dependency files should be used:  
 
 
 • opennlp-tools-1.5.3 – main executable library file  
