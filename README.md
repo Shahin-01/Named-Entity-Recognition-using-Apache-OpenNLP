@@ -1,6 +1,6 @@
 ## Overview
 
-In this project, we have extracted person, location, and organization names from large document using Java language and [Apache Open NLP](https://opennlp.apache.org/) toolkit. The following dependency files should be used:  
+In this project, we have extracted person, location, and organization names from a large document using Java language and [Apache Open NLP](https://opennlp.apache.org/) toolkit. The following dependency files should be used:  
 
 • opennlp-tools-1.5.3 – main executable library file  
 • opennlp-maxent-3.0.1- maximum entropy modeling framework for information integration from ample number of sources for classification purposes  
