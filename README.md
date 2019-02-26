@@ -1,13 +1,6 @@
-This project has been implemented to apply basic Natural Language Processing
-(NLP) techniques to a real web text collection using Java programming language.
-Our primary goal is to extract some useful information from the given text. In our
-experiment, we have been given a text file with some documents that each is in a
-separate line of our file. These documents outline people (the soccer players),
-organizations (the teams that those players play for) and locations (the stadiums
-where teams play their home games).
-To do this, we have used Apache OpenNLP machine learning tool to extract
-named entities. The following components of this toolkit have been included to
-our program:
+In this project, we have extracted person, location, and organization names from large document using Java language and [Apache OpenNLOP](https://opennlp.apache.org/) toolkit. Following dependency files should be used:  
+
+
 • opennlp-tools-1.5.3 – main executable library file
 • opennlp-maxent-3.0.1- maximum entropy modeling framework for
 information integration from ample number of sources for classification purposes
